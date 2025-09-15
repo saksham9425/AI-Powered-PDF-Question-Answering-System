@@ -7,7 +7,7 @@ PyPDF2
 google-ai-generativelanguage
 langchain-community
 pandas
-
+langchain-huggingface
 
 faiss-cpu
 wikipedia
